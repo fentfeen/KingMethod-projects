@@ -16,7 +16,7 @@ This guide provides two simple methods for activating Windows and Office. Follow
 
 2. Copy and paste the following command into PowerShell and press **Enter**:  
    ```ps1
-   irm https://get.activated.win | iex``
+   irm https://get.activated.win | iex
 
 3. After running the command, you will see activation options. Choose the appropriate option:
 - [1] HWID for Windows activation
