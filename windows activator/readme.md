@@ -22,7 +22,6 @@ This guide provides two simple methods for activating Windows and Office. Follow
 - [1] HWID for Windows activation
 - [2] Ohook for Office activation
 
-```markdown
 ### **Important Notes**
 - Ensure you have a stable internet connection during the activation process.
 - This guide is provided for educational purposes only. Use it responsibly and in compliance with applicable laws and licensing agreements.
